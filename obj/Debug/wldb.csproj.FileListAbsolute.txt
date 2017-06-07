@@ -1,0 +1,9 @@
+C:\Users\amand\Documents\wldb\bin\Debug\wldb.exe.config
+C:\Users\amand\Documents\wldb\bin\Debug\wldb.exe
+C:\Users\amand\Documents\wldb\bin\Debug\wldb.pdb
+C:\Users\amand\Documents\wldb\obj\Debug\wldb.csprojResolveAssemblyReference.cache
+C:\Users\amand\Documents\wldb\obj\Debug\wldb.wldbForm.resources
+C:\Users\amand\Documents\wldb\obj\Debug\wldb.Properties.Resources.resources
+C:\Users\amand\Documents\wldb\obj\Debug\wldb.csproj.GenerateResource.Cache
+C:\Users\amand\Documents\wldb\obj\Debug\wldb.exe
+C:\Users\amand\Documents\wldb\obj\Debug\wldb.pdb
